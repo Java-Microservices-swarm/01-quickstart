@@ -2,10 +2,9 @@
 Create simple Hero service. 
 
 ## Concept
-- Use rest
-- Scope
+- Use rest, scope
 - User Interface: FORM, XMLHTTPRequest
-CORS
+- CORS
 
 
 ## Environment
