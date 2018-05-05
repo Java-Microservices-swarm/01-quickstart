@@ -35,6 +35,7 @@ Create simple Hero service.
 - official page [swarm](http://wildfly-swarm.io/)
 - examples [github](https://github.com/wildfly-swarm/wildfly-swarm-examples)
 - project generator (http://wildfly-swarm.io/generator/)
+- system properties [swarm](https://wildfly-swarm.gitbooks.io/wildfly-swarm-users-guide/configuration_properties.html)
 
 ## API
 ### Classes 
