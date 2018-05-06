@@ -1,5 +1,5 @@
 # 01-quickstart
-Create simple Hero service. 
+Create simple micro service. 
 
 ## Concept
 - Use rest, scope
