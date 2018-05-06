@@ -6,6 +6,12 @@ Create simple Hero service.
 - User Interface: FORM, XMLHTTPRequest
 - CORS
 
+## Patterns
+- [Monolithic architecture](http://microservices.io/patterns/monolithic.html)
+- [Microservice architecture](http://microservices.io/patterns/microservices.html)
+- [Decompose by business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
+- [Decompose by subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+
 
 ## Environment
 ### Linux 
